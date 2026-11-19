@@ -1,0 +1,6 @@
+{
+  "name": "Big Tree BBQ — East End, Grand Cayman",
+  "description": "Authentic open-pit barbecue and traditional Caymanian home cooking served beneath the shade tree in Gun Bay, East End, Grand Cayman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
